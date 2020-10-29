@@ -43,7 +43,7 @@
 
 4. 搜索UUkey![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915001018.jpg)
 
-### 运行方式
+### 运行方式 
 
 1. fork本项目到你的个人账号
    
