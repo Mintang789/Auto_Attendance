@@ -104,7 +104,7 @@
 
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194250.png)
 
----
+--- 
 参考开源仓库：
 
 1. [浙大nCov健康打卡定时自动脚本](https://github.com/Tishacy/ZJU-nCov-Hitcarder)
